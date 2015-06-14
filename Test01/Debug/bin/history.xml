@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.9.3 -mcpu=cortex-m4 -mthumb -g2 -Map=Test01.map -O0 --gc-sections -LC:/Users/Asus/Desktop/CoIDE/workspace/YieldTask -TC:/Users/Asus/Desktop/CoIDE/workspace/YieldTask/stm32f407vg_flash.ld -g">
+      <target file="Test01.elf" lastModified="14df1c938c2">
+         <source file="..\obj\stm32f4xx_hal_cortex.o" lastModified="14df1c88adc"/>
+         <source file="..\obj\Button.o" lastModified="14df1c89c61"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="14df1c88cc1"/>
+         <source file="..\obj\stm32f4xx_hal.o" lastModified="14df1c883c8"/>
+         <source file="..\obj\Time.o" lastModified="14df1c880ca"/>
+         <source file="..\obj\TaskLED1.o" lastModified="14df1c92ebf"/>
+         <source file="..\obj\TaskLED2.o" lastModified="14df1c9317e"/>
+         <source file="..\obj\stm32f4xx_hal_gpio.o" lastModified="14df1c89184"/>
+         <source file="..\obj\RunningLight.o" lastModified="14df1c9278b"/>
+         <source file="..\obj\TaskLED3.o" lastModified="14df1c9348b"/>
+         <source file="..\obj\stm32f4xx_hal_rcc.o" lastModified="14df1c88781"/>
+         <source file="..\obj\LiteTasker.o" lastModified="14df1c92c00"/>
+         <source file="..\obj\startup_stm32f429xx.o" lastModified="14df1c87e0b"/>
+         <source file="..\obj\main.o" lastModified="14df1c92a79"/>
+      </target>
+   </processor>
+</history>
